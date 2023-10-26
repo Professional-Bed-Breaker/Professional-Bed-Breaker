@@ -42,13 +42,11 @@
 <br>
 
 ## Enjoy the programs I create? Consider leaving a donation! ☕️
-Donations are never required, but they are always deeply appreciated. You can support me on Buy Me A Coffee, using the button below, or the widget you may see floating in the bottom corner of your screen.
+Donations are never required, but they are always deeply appreciated. You can support me on Buy Me A Coffee, using the button below:
 
-<a href = "https://www.buymeacoffee.com/v2ftrsbdkv7" /> <img alt = "Static-Badge" src = "https://img.shields.io/badge/Buy_Me_A_Coffee!-yellow?style=flat-square&logo=buymeacoffee"/></a>
-
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="v2ftrsbdkv7" data-description="Support me on Buy me a coffee!" data-message="Thanks for visiting! Feel free to support my work via this widget if you'd like." data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="v2ftrsbdkv7" data-color=“#ECBCFB” data-emoji="📖"  data-font="Inter" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+<!--<a href = "https://www.buymeacoffee.com/v2ftrsbdkv7" /> <img alt = "Static-Badge" src = "https://img.shields.io/badge/Buy_Me_A_Coffee!-yellow?style=flat-square&logo=buymeacoffee"/></a>
+-->
 
 
 
