@@ -3,7 +3,7 @@
 </br>
 
 
-# Hello, and welcome to my GitHub portfolio. 👋🏼
+# Hello, and welcome to my GitHub portfolio.
 
 ## About Me
 - I tend to make many side projects in my free time to boost my portfolio. This portfolio will focus on projects for a certain community. I have many projects that I've worked on before, so don't be surprised if I do a mass upload here.
